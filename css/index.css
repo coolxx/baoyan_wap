@@ -683,12 +683,12 @@ table a{
 .bdshare-button-style0-16 a, .bdshare-button-style0-16 .bds_more{
 	background-image: none!important;
 }
-.zg_sidefix{/*max-width: 84px;*/
+.zg_zx{/*max-width: 84px;*/
 width: 3.6rem;
 position: fixed;
 right: 0;
 top:50%;
 z-index: 10000;}
-.zg_sidefix a {
+.zg_zx a {
 display: block;
 }
